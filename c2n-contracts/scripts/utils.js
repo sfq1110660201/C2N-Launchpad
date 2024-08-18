@@ -8,6 +8,7 @@ function getSavedContractAddresses() {
     } catch (err) {
         json = '{}'
     }
+    console.log('josn',json)
     const addrs = JSON.parse(json)
     return addrs
 }

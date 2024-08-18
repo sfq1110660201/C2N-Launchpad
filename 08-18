@@ -1,0 +1,7 @@
+部署c2n-token:
+0x2Fa1624Ca7B98D66dC1F0AC35319CaFa1240bE84
+0xd2b25eE9a8e87af304d50f83194Db90eE2587B5b
+
+
+npx hardhat run .\scripts\deployment\deploy_farm.js --network sepolia
+Farm deployed to:  0x484112B5800245Eba569A5f9966AB40541f703bc

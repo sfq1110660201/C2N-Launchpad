@@ -4,7 +4,7 @@ const {ethers} = require("hardhat");
 
 async function main() {
     const RPS = "1";
-    const startTS = 1720008927
+    const startTS = 1723980121
 
     
     // get c2n token address from contract address file
